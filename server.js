@@ -1,4 +1,4 @@
-const animeList = require('./animeData')
+const animeData = require('./animeData')
 
 const express = require('express');
 const app = express();
@@ -9,10 +9,10 @@ app.use(cors());
 
 app.set('port', process.env.PORT || 3001);
 app.locals.title = 'Anime List';
-app.locals.anime = animeList;
+app.locals.anime = animeData;
 
 app.get('/api/v1/anime', (request, response) => {
-  response.send(animeList);
+  response.send(animeData);
 });
 
 app.get('/api/v1/anime/:id', (request, response) => {
@@ -29,7 +29,7 @@ app.get('/api/v1/anime/:id', (request, response) => {
 app.post('/api/v1/anime', (request, response) => {
   const { animeID } = request.params;
   const animeFilteredList = app.locals.anime.filter(anime=> animeID === anime.id)
-  animeList.push(request.body)
+  animeData.push(request.body)
 
   response.status(201).json({message: 'post successful', post: request.body});
 })
