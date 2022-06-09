@@ -27,9 +27,9 @@ app.get('/api/v1/anime/:id', (request, response) => {
 });
 
 app.post('/api/v1/anime', (request, response) => {
-  const { animeID } = request.params;
-  const animeFilteredList = app.locals.anime.filter(anime=> animeID === anime.id)
-  animeData.push(request.body)
+  const { title, image, rating, runtime, genre } = request.body;
+ 
+  animeData.userWatchList.push(request.body)
 
   response.status(201).json({message: 'post successful', post: request.body});
 })
