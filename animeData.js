@@ -208,15 +208,6 @@ let animeData = {
             "synopsis": `Shigeo "Mob" Kageyama is now maturing and understanding his role as a supernatural psychic that has the power to drastically affect the livelihood of others. He and his mentor Reigen Arataka continue to deal with supernatural requests from clients, whether it be exorcizing evil spirits or tackling urban legends that haunt the citizens. While the workflow remains the same, Mob isn't just blindly following Reigen around anymore. With all his experiences as a ridiculously strong psychic, Mob's supernatural adventures now have more weight to them. Things take on a serious and darker tone as the dangers Mob and Reigen face are much more tangible and unsettling than ever before.`
         },
         {   
-            "title":"Haikyuu!! To the Top",
-            "image":"https://cdn.anime-planet.com/anime/primary/haikyuu-to-the-top-part-ii-1.jpg?t=1625788721",
-            "rating": 8.36,
-            "runtime": "Jan 11 - Apri 4",
-            "episodes": 13,
-            "genre": [ "Sports" ],
-            "synopsis": "After their triumphant victory over Shiratorizawa Academy, the Karasuno High School volleyball team has earned their long-awaited ticket to nationals. As preparations begin, genius setter Tobio Kageyama is invited to the All-Japan Youth Training Camp to play alongside fellow nationally recognized players. Meanwhile, Kei Tsukishima is invited to a special rookie training camp for first-years within the Miyagi Prefecture. Not receiving any invitations himself, the enthusiastic Shouyou Hinata feels left behind. However, Hinata does not back down. Transforming his frustration into self-motivation, he boldly decides to sneak himself into the same rookie training camp as Tsukishima. Even though Hinata only lands himself a job as the ball boy, he comes to see this as a golden opportunity. He begins to not only reflect on his skills as a volleyball player but also analyze the plethora of information available on the court and how he can apply it."
-        },
-        {   
             "title":"The Promised Neverland",
             "image":"https://cdn.anime-planet.com/anime/primary/the-promised-neverland-1.jpg?t=1625783162",
             "rating": 8.54,
