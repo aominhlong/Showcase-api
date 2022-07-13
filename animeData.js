@@ -2,7 +2,7 @@ let animeData = {
     animeList: [
         {   
             "title":"SPY x FAMILY",
-            "image":"https://cdn.anime-planet.com/anime/primary/spy-x-family-1-285x403.webp?t=1646636920",
+            "image":"https://cdn.myanimelist.net/images/anime/1111/121262l.jpg",
             "rating": 9.04,
             "runtime": "Apr 2022 - present",
             "genre": [ "Action", "Comedy" ],
@@ -11,7 +11,7 @@ let animeData = {
         },
         {   
             "title":"Demon Slayer: Kimetsu no Yaiba - Entertainment District Arc",
-            "image":"https://cdn.anime-planet.com/anime/primary/demon-slayer-kimetsu-no-yaiba-entertainment-district-arc-1-285x399.webp?t=1632583530",
+            "image":"https://cdn.myanimelist.net/images/anime/1908/120036l.jpg",
             "rating": 8.55,
             "runtime": "Dec 2021 - Feb 2022",
             "episodes": 11,
@@ -20,7 +20,7 @@ let animeData = {
         },
         {   
             "title":"Fruits Basket the Final Season",
-            "image":"https://cdn.anime-planet.com/anime/primary/fruits-basket-the-final-season-1-285x399.jpg?t=1628016647",
+            "image":"https://cdn.myanimelist.net/images/anime/1085/114792l.jpg",
             "rating": 9.04,
             "runtime": "Apr 2021 - Jun 2021",
             "episodes": 13,
@@ -29,7 +29,7 @@ let animeData = {
         },
         {   
             "title":"Fullmetal Alchemist: Brotherhood",
-            "image":"https://cdn.anime-planet.com/anime/primary/fullmetal-alchemist-brotherhood-1-190x285.jpg?t=1625886288",
+            "image":"https://cdn.myanimelist.net/images/anime/1223/96541l.jpg",
             "rating": 9.14,
             "runtime": "Apr 2009 - Jul 2010",
             "episodes": 64,
@@ -38,7 +38,7 @@ let animeData = {
         },
         {   
             "title":"Attack on Titan 3rd Season: Part 2",
-            "image":"https://cdn.anime-planet.com/anime/primary/attack-on-titan-3rd-season-part-ii-1-190x285.jpg?t=1625898798",
+            "image":"https://cdn.myanimelist.net/images/anime/1517/100633l.jpg",
             "rating": 8.62,
             "runtime": "Apr 2019 - Jul 2019",
             "episodes": 10,
@@ -47,7 +47,7 @@ let animeData = {
         },
         {   
             "title":"Jujutsu Kaisen",
-            "image":"https://cdn.anime-planet.com/anime/primary/jujutsu-kaisen-1-190x286.jpg?t=1625907951",
+            "image":"https://cdn.myanimelist.net/images/anime/1171/109222l.jpg",
             "rating": 8.68,
             "runtime": "Oct 2020 - Mar 2021",
             "episodes": 24,
@@ -56,7 +56,7 @@ let animeData = {
         },
         {   
             "title":"Haikyuu!! Karasuno High School vs Shiratorizawa Academy",
-            "image":"https://cdn.anime-planet.com/anime/primary/haikyuu-karasuno-high-school-vs-shiratorizawa-academy-1.jpg?t=1625779759",
+            "image":"https://cdn.myanimelist.net/images/anime/7/81992l.jpg",
             "rating": 8.79,
             "runtime": "Oct 2020 - Mar 2021",
             "episodes": 24,
@@ -65,7 +65,7 @@ let animeData = {
         },
         {   
             "title":"Demon Slayer: Kimetsu no Yaiba Movie - Mugen Train",
-            "image":"https://cdn.anime-planet.com/anime/primary/demon-slayer-kimetsu-no-yaiba-movie-mugen-train-1.jpg?t=1625788462",
+            "image":"https://cdn.myanimelist.net/images/anime/1704/106947l.jpg",
             "rating": 8.66,
             "runtime": "Oct 2020",
             "episodes": 1,
@@ -74,7 +74,7 @@ let animeData = {
         },
         {   
             "title":"Attack on Titan The Final Season Part 1",
-            "image":"https://cdn.anime-planet.com/anime/primary/attack-on-titan-the-final-season-1.jpg?t=1630355436",
+            "image":"https://cdn.myanimelist.net/images/anime/1773/109409l.jpg",
             "rating": 8.84,
             "runtime": "Dec 2020 - Mar 2021",
             "episodes": 16,
@@ -92,7 +92,7 @@ let animeData = {
         },
         {   
             "title":"Haikyuu!! Second Season",
-            "image":"https://cdn.anime-planet.com/anime/primary/haikyuu-second-season-1.jpg?t=1625778467",
+            "image":"https://cdn.myanimelist.net/images/anime/9/76662l.jpg",
             "rating": 8.65,
             "runtime": "Oct 2015 - May 2016",
             "episodes": 25,
@@ -101,7 +101,7 @@ let animeData = {
         },
         {   
             "title":"Attack on Titan The Final Season: Part II",
-            "image":"https://cdn.anime-planet.com/anime/primary/attack-on-titan-the-final-season-part-ii-1.webp?t=1640076824",
+            "image":"https://cdn.myanimelist.net/images/anime/1948/120625l.jpg",
             "rating": 8.85,
             "runtime": "Jan 2022 - Apr 2022",
             "episodes": 12,
@@ -110,7 +110,7 @@ let animeData = {
         },
         {   
             "title":"Violet Evergarden Movie",
-            "image":"https://cdn.anime-planet.com/anime/primary/violet-evergarden-movie-1.webp?t=1634333039",
+            "image":"https://cdn.myanimelist.net/images/anime/1614/106512l.jpg",
             "rating": 8.95,
             "runtime": "Sep 2020",
             "episodes": 1,
@@ -119,7 +119,7 @@ let animeData = {
         },
         {   
             "title":"A Silent Voice",
-            "image":"https://cdn.anime-planet.com/anime/primary/a-silent-voice-1.jpg?t=1625778389",
+            "image":"https://cdn.myanimelist.net/images/anime/6/79634l.jpg",
             "rating": 8.95,
             "runtime": "Sep 2016",
             "episodes": 1,
@@ -128,7 +128,7 @@ let animeData = {
         },
         {   
             "title":"Demon Slayer: Kimetsu no Yaiba",
-            "image":"https://cdn.anime-planet.com/anime/primary/demon-slayer-kimetsu-no-yaiba-1.jpg?t=1625783509",
+            "image":"https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
             "rating": 8.55,
             "runtime": "Apr 2019 - Sep 2019",
             "episodes": 26,
@@ -137,7 +137,7 @@ let animeData = {
         },
         {   
             "title":"Hunter x Hunter (2011)",
-            "image":"https://cdn.anime-planet.com/anime/primary/hunter-x-hunter-2011-1.jpg?t=1625774966",
+            "image":"https://cdn.myanimelist.net/images/anime/1337/99013l.jpg",
             "rating": 9.05,
             "runtime": "Oct 2011 - Sep 2014",
             "episodes": 148,
@@ -146,7 +146,7 @@ let animeData = {
         },
         {   
             "title":"Haikyuu!! To the Top: Part II",
-            "image":"https://cdn.anime-planet.com/anime/primary/haikyuu-to-the-top-part-ii-1.jpg?t=1625788721",
+            "image":"https://cdn.myanimelist.net/images/anime/1453/106768l.jpg",
             "rating": 8.54,
             "runtime": "Oct 2020 - Dec 2020",
             "episodes": 12,
@@ -155,7 +155,7 @@ let animeData = {
         },
         {   
             "title":"Jujutsu Kaisen 0",
-            "image":"https://cdn.anime-planet.com/anime/primary/jujutsu-kaisen-0-1.jpg?t=1635299238",
+            "image":"https://cdn.myanimelist.net/images/anime/1121/119044l.jpg",
             "rating": 8.53,
             "runtime": "Dec 2021",
             "episodes": 1,
@@ -164,7 +164,7 @@ let animeData = {
         },
         {   
             "title":"Code Geass: Lelouch of the Rebellion R2",
-            "image":"https://cdn.anime-planet.com/anime/primary/code-geass-lelouch-of-the-rebellion-r2-1.jpg?t=1625767733",
+            "image":"https://cdn.myanimelist.net/images/anime/4/9391l.jpg",
             "rating": 8.91,
             "runtime": "Apr 2008 - Sep 2008",
             "episodes": 25,
@@ -173,7 +173,7 @@ let animeData = {
         },
         {   
             "title":"Link Click",
-            "image":"https://cdn.anime-planet.com/anime/primary/link-click-1.webp?t=1628016711",
+            "image":"https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
             "rating": 8.80,
             "runtime": "Apr 2021 - Jul 2021",
             "episodes": 11,
@@ -182,7 +182,7 @@ let animeData = {
         },
         {   
             "title":"That Time I Got Reincarnated as a Slime Season 2",
-            "image":"https://cdn.anime-planet.com/anime/primary/that-time-i-got-reincarnated-as-a-slime-season-2-1.jpg?t=1625764401",
+            "image":"https://cdn.myanimelist.net/images/anime/1694/93337l.jpg",
             "rating": 8.40,
             "runtime": "Jul 2021 - Sep 2021",
             "episodes": 12,
@@ -191,7 +191,7 @@ let animeData = {
         },
         {   
             "title":"Gintama: The Very Final",
-            "image":"https://cdn.anime-planet.com/anime/primary/gintama-the-very-final-1.jpg?t=1635597167",
+            "image":"https://cdn.myanimelist.net/images/anime/1988/113791l.jpg",
             "rating": 9.04,
             "runtime": "Jan 2021",
             "episodes": 1,
@@ -200,7 +200,7 @@ let animeData = {
         },
         {   
             "title":"Mob Psycho 100 II",
-            "image":"https://cdn.anime-planet.com/anime/primary/mob-psycho-100-ii-1.jpg?t=1625782687",
+            "image":"https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
             "rating": 8.81,
             "runtime": "Jan 2019 - Apr 2019",
             "episodes": 13,
@@ -209,7 +209,7 @@ let animeData = {
         },
         {   
             "title":"The Promised Neverland",
-            "image":"https://cdn.anime-planet.com/anime/primary/the-promised-neverland-1.jpg?t=1625783162",
+            "image":"https://cdn.myanimelist.net/images/anime/1903/96943l.jpg",
             "rating": 8.54,
             "runtime": "Jan 2019 - March 2019",
             "episodes": 12,

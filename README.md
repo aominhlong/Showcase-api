@@ -18,3 +18,7 @@ Clone this down, and cd into it. Then run:
 | Get all anime |`https://anime-api-showcase.herokuapp.com/`| GET  | none | object with `animeList` property containing an array of all anime and `userWatchList` property containing an array of anime added to user's watchlist |
 | Add an anime to the list |`http://localhost:3001/api/v1/reviews`| POST | `{ "title": <string>, "image": <string>, "rating": <number>, "runtime": <string>, "genre": <string> }` | `{message: 'post successful', post: <Object>}` | 
 | Remove an anime from the list |`https://anime-api-showcase.herokuapp.com/`| DELETE  | `{ "title": <string>, "image": <string>, "rating": <number>, "runtime": <string>, "genre": <string> }` | <`object of deleted anime`> |
+
+## Images
+
+Images and data used are not of my own and were sourced from: https://myanimelist.net/. 
