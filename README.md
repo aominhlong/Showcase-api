@@ -2,7 +2,7 @@
 
 This repo was created to be used with the [Showcase](https://github.com/aominhlong/Showcase) project.
 
-The app is currently deployed on heroku [here](https://anime-api-showcase.herokuapp.com/).
+The app is currently deployed on vercel [here](https://showcase-api-eight.vercel.app/).
 
 ## Set Up
 
